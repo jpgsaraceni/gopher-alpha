@@ -2,10 +2,6 @@
 
 Este repositório procura trazer uma curadoria de por onde começar a aprender Go, e serve como material de apoio para a palestra **Golang: Introdução à Linguagem da Marmota** apresentada no Alpha EdTech em 10/01/2023.
 
-## Índice
-
-[Referências](#referências)
-
 ## Sugestão de trilha
 
 Abaixo estão as principais referências para aprender a linguagem, que podem ser consumidas e revisitadas ao longo do tempo. Como sugestão para iniciar:
